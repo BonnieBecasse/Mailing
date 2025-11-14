@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="x-apple-disable-message-reformatting">
+  <title>Bonnie Bécasse - spectacle musical</title>
+</head>
+
+<body bgcolor="#e1d2cb" style="margin:0; padding:0; background-color:#e1d2cb; font-family:Georgia,serif; color:#2b1e1a; text-align:left;">
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#e1d2cb" style="background-color:#e1d2cb;">
+    <tr>
+      <td align="center" style="padding:20px;">
+
+        <table role="presentation" width="100%" style="max-width:600px; background-color:#fffaf7; border-radius:16px; padding:24px; text-align:left;">
+
+          <!-- En-tête -->
+          <tr>
+            <td style="font-size:15px; line-height:1.6;">
+              Bonjour <strong>[Prénom du programmateur]</strong>,
+              <br><br>
+              Je me permets de vous présenter <strong>Bonnie Bécasse</strong>, un spectacle de <strong>chanson poétique</strong> d’une durée de 55 minutes, guitare et chant solo.
+            </td>
+          </tr>
+
+          <!-- Image -->
+          <tr>
+            <td style="padding-top:16px; padding-bottom:18px;">
+              <img 
+                src="https://raw.githubusercontent.com/BonnieBecasse/Mailing/refs/heads/main/Bandeau%20BB%20mail.jpg"
+                alt="Bonnie Bécasse — visuel"
+                style="max-width:100%; height:auto; display:block; border-radius:10px; margin:auto;"
+                width="600"
+              >
+            </td>
+          </tr>
+
+          <!-- Bloc poétique -->
+          <tr>
+            <td style="border-left:3px solid #b89c8d; padding-left:14px; font-style:italic; line-height:1.6; font-size:17px; color:#37221c;">
+              C’est un oiseau discret dont on ne sait s’il va annoncer le printemps ou s’il est porteur de mauvaises nouvelles.
+              À la frontière entre la beauté de l’invisible et le malheur le plus sauvage, Bonnie Bécasse se pose là, abordant la vie comme on rentre dans un mur,
+              se cognant sans cesse à la réalité, sans jamais renoncer à la poésie.
+              Bien que cela soit tentant, il faudrait être fou pour lui clouer le bec.
+            </td>
+          </tr>
+
+          <!-- Description -->
+          <tr>
+            <td style="padding-top:24px; font-size:16px; line-height:1.6;">
+              À la manière des naturalistes du siècle dernier, <strong>Bonnie Bécasse</strong>, femme oiseau <strong>insoumise</strong>,
+              propose un <strong>bestiaire fabuleux</strong> où <strong>l’humain et l’animal ne font qu’un</strong>,
+              luttant pour leur survie dans un monde résolument hostile.
+            </td>
+          </tr>
+
+          <!-- Programmations -->
+          <tr>
+            <td style="padding-top:20px; font-size:15px; line-height:1.7;">
+              Le projet est encore jeune, mais déjà accueilli avec enthousiasme :
+              <br><br>
+              🎵 <strong>Thou Bout d’Chant (Lyon)</strong> — 24 mai 2025<br>
+              📚 <strong>Médiathèque de Boën-sur-Lignon</strong> — 5 novembre 2025
+              <br><br>
+              🎥 <a href="https://www.youtube.com/watch?v=b_HCSE-8eHY" style="color:#533c34; text-decoration:none; font-weight:bold;">Voir un extrait live</a><br>
+              📂 <a href="https://drive.google.com/drive/folders/1lQagVlh3Zc_QIlaZH4_aoCAvIFTCQJ-e?usp=sharing" style="color:#533c34; text-decoration:none; font-weight:bold;">Dossier de presse (Drive)</a>
+            </td>
+          </tr>
+
+          <!-- Conclusion -->
+          <tr>
+            <td style="padding-top:24px; font-size:16px; line-height:1.6;">
+              Je serais ravie d’échanger avec vous à propos d’une éventuelle programmation de <strong>Bonnie Bécasse</strong> dans votre salle.
+              <br><br>
+              Merci pour votre attention et votre engagement à faire vivre la chanson indépendante !
+            </td>
+          </tr>
+
+          <!-- Signature -->
+          <tr>
+            <td style="border-top:1px solid #d4c3bc; padding-top:18px; font-size:15px; line-height:1.6;">
+              <strong>Amandine Larachiche</strong><br>
+              📞 06 50 01 87 12<br>
+              📧 <a href="mailto:bonniebecasse@gmail.com" style="color:#533c34; text-decoration:none;">bonniebecasse@gmail.com</a><br>
+              🎥 <a href="https://www.youtube.com/watch?v=b_HCSE-8eHY" style="color:#533c34; text-decoration:none;">Vidéo live</a> |
+              📂 <a href="https://drive.google.com/drive/folders/1lQagVlh3Zc_QIlaZH4_aoCAvIFTCQJ-e?usp=sharing" style="color:#533c34; text-decoration:none;">Dossier de presse</a>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
